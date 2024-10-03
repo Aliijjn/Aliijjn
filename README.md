@@ -1,4 +1,4 @@
-## About Me 👋
+# About Me 👋
 ⚙️ Low level enthousiast (C/C++)
 
 📖 I'm a student at [Codam](https://github.com/codam-coding-college)
