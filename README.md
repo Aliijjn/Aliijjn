@@ -1,7 +1,7 @@
 # About Me 👋
 ### 💡  Low level enthousiast (C/C++/ASM)
-### ⚙️  Intern @ Anaglyphic
-### 📖  Student @ [Codam](https://github.com/codam-coding-college)
+### ⚙️  Full-stack developer @ Anaglyphic
+### 📖  [Codam](https://github.com/codam-coding-college) Alumini
 ### 🔭  Currently working on: Learning Vue, PHP and Go
 ### 😍  Love working on: My own games, with as little abstraction as possible
 
